@@ -5233,7 +5233,7 @@ button {
             content: "\f13a";
             position:absolute;
             top:18px;
-            left:20px;
+            left:25px;
             font-family:$font-awesome;           
             color: $gray-7;
             z-index:1;
@@ -5252,7 +5252,8 @@ button {
           width:175px;
           height:100%;
           text-transform: uppercase;
-          position: relative;         
+          position: relative;       
+          padding-left:15px;  
         }
         .input-group-text{
           background-color:transparent;
